@@ -1,0 +1,35 @@
+.header{
+    background-color: blanchedalmond;
+    color: blueviolet;
+}
+.header:hover{
+    background-color: beige;
+    color:aquamarine
+}
+#one{
+    color:beige;
+}
+#two{
+    color:blueviolet;
+}
+#three{
+    color:darkmagenta;
+}
+#four,#five,#six{
+    color:crimson;
+}
+*{
+    color: aqua;
+}
+.link{
+      text-decoration: none;
+      color: black;
+      background-color: blueviolet;
+      padding: 10px;
+      border-radius: 10px;
+
+}
+.linkhover{
+    color: rgb(244,238,238);
+    background-color:rgb(30,57,210);
+}
